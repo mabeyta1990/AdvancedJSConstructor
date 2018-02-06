@@ -1,0 +1,23 @@
+{
+  "name": "advancedjsconstructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mabeyta1990/AdvancedJSConstructor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mabeyta1990/AdvancedJSConstructor/issues"
+  },
+  "homepage": "https://github.com/mabeyta1990/AdvancedJSConstructor#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}

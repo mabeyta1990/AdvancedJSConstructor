@@ -1,10 +1,10 @@
-var promp = require('prompt');
+var prompt = require('prompt');
 var Word = require('./word.js');
-
+prompt.start();
 console.log("Terminal Hangman");
 console.log("Guess a letter");
 console.log("---------------------------------");
-prompt.start();
+
 
 game = {
     wordBank: ['choke', 'rope', 'knot', 'swing'],
